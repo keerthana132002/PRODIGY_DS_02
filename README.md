@@ -16,7 +16,7 @@ Exploratory Data Analysis (EDA):
 
 Visualized data distributions using histograms, box plots, and kernel density plots.
 Analyzed relationships between variables with scatter plots and correlation matrices.
-Identified trends and outliers to gain insights into the dataset.
+Identified trends and outliers to gain insights into the dataset
 Tools Used
 Programming Language: Python
 Libraries: pandas, NumPy, matplotlib, seaborn
